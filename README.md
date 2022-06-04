@@ -1,6 +1,6 @@
 # app-dividir-gastos
 
-Aplicación para dividir gastos entre varias personas.
+Calculadora de Gastos - Aplicación para dividir gastos entre varias personas.
 
 Consigna final del sprint 2 del curso Fullstack Developer de ITBA.
 
